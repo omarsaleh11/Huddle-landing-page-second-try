@@ -342,7 +342,7 @@ main {
   }
   .header {
     padding: 3.375rem 4.375rem;
-    padding-bottom: 1.5rem;
+    padding-bottom: 0rem;
     margin-bottom: 0rem;
   }
   .header--logo {
