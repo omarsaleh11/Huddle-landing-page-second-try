@@ -274,11 +274,11 @@ main {
       -ms-flex-align: center;
           align-items: center;
 }
-.social-media-links svg:hover path {
+.social-media-links a:hover path {
   stroke: var(--secondary-clr);
   fill: var(--secondary-clr);
 }
-.social-media-links svg:hover rect {
+.social-media-links a:hover rect {
   stroke: var(--secondary-clr);
 }
 
